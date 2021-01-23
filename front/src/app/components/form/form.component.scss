@@ -1,0 +1,30 @@
+@import '../../../styles/variables.scss';
+
+mat-form-field {
+  &.red {
+    ::ng-deep .mat-form-field-outline {
+      color: $white;
+    }
+  }
+}
+
+
+form {
+  margin: 2.8rem 0
+}
+form.centered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+form .email-container, form .password-container {
+  width: 50%;
+  max-width: 80%;
+  @media (max-width: 600px) {
+    width: 80%;
+  }
+}
+input.mat-input-element {
+  color: $white;
+}
