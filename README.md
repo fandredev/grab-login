@@ -22,12 +22,8 @@
   git clone https://github.com/flubyGit/grab-login.git
   cd grab-login/front
   npm install && npm start
-  
-  git clone https://github.com/flubyGit/grab-login.git
-  cd grab-login/mobile
-  npm install && npm start
 ```
-- *Git, Expo, Angular CLI e Node/Npm precisam estar instalados em sua máquina*
+- *Git, Angular CLI e Node/Npm precisam estar instalados em sua máquina*
 
 <br>
 
