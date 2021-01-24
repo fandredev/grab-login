@@ -3,7 +3,6 @@
 
 # Techs
   - Web: **Angular 11** :computer:
-  - Mobile: **React Native** :iphone:
   
 <br>
 
